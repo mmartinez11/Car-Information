@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Project 2</string>
+
+    <string-array name="focus">
+        <item>Name:Golf Mill Ford Dealership</item>
+        <item>Address:9401 North Milwaukee Ave, Niles, IL 60714</item>
+
+        <item>Name:Bredemann Ford in Glenview</item>
+        <item>Address:2038 Waukegan Rd, Glenview, IL 60025</item>
+
+        <item>Name:Arlington Heights Ford</item>
+        <item>Address:801 W Dundee Rd, Arlington Heights, IL 60004</item>
+    </string-array>
+
+    <string-array name="outback">
+        <item>Name:Muller Subaru</item>
+        <item>Address:1350 Park Ave W, Highland Park, IL 60035</item>
+
+        <item>Name:Evanston Subaru</item>
+        <item>Address:3340 Oakton St, Skokie, IL 60076</item>
+
+        <item>Name:Napleton\'s Schaumburg Subaru</item>
+        <item>Address:911 W Higgins Rd, Schaumburg, IL 60195</item>
+    </string-array>
+
+    <string-array name="civic">
+        <item>Name:Muller Honda</item>
+        <item>Address:550 Skokie Valley Rd, Highland Park, IL 60035</item>
+
+        <item>Name:AutoNation Honda O\'Hare</item>
+        <item>Address:1533 S River Rd, Des Plaines, IL 60018</item>
+
+        <item>Name:Castle Honda Sales</item>
+        <item>Address:6900 Dempster St, Morton Grove, IL 60053</item>
+    </string-array>
+
+    <string-array name="mercedes">
+        <item>Name:MBS Automotive</item>
+        <item>Address:642 Anthony Trail, Northbrook, IL 60062</item>
+
+        <item>Name:Autohaus On Edens</item>
+        <item>Address:1600 Frontage Rd, Northbrook, IL 60062</item>
+
+        <item>Name:Loeber Motors</item>
+        <item>Address:4255 W Touhy Ave, Lincolnwood, IL 60712</item>
+    </string-array>
+
+    <string-array name="outlander">
+        <item>Name:Schaumburg Mitsubishi</item>
+        <item>Address:660 E Golf Rd, Schaumburg, IL 60173</item>
+
+        <item>Name:Biggers Mitsubishi</item>
+        <item>Address:1325 E Chicago St, Elgin, IL 60120</item>
+
+        <item>Name:Countryside Mitsubishi</item>
+        <item>Address:5800 South La Grange Road, Countryside, IL 60525</item>
+    </string-array>
+
+    <string-array name="sienna">
+        <item>Name:Bredemann Toyota</item>
+        <item>Address:1301 Dempster St, Park Ridge, IL 60068</item>
+
+        <item>Name:Northbrook Toyota</item>
+        <item>Address:1530 Frontage Rd, Northbrook, IL 60062</item>
+
+        <item>Name:Arlington Toyota</item>
+        <item>Address:2095 N Rand Rd, Palatine, IL 60074</item>
+    </string-array>
+
+
+</resources>
