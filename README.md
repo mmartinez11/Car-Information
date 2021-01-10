@@ -1,13 +1,13 @@
 # Instructions
-* On the start screen the user is able to long press or short press any of the car pictures
+* On the start screen the user is able to long press or short press any of the car pictures.
 
 ![b1](https://user-images.githubusercontent.com/33674827/104111825-9d30b680-52ac-11eb-862e-80d3d82abd1a.PNG)
 
-* A short press will open a second activity with an image view of the picture selected
+* A short press will open a second activity with an image view of the picture selected.
 
 ![b2](https://user-images.githubusercontent.com/33674827/104111828-aa4da580-52ac-11eb-8ac7-c28b0d80d3a9.PNG)
 
-* If the user presses on the picture it will open the phones web browser application, and loads the webpage of the car model.
+* If the user presses on the picture it will open the phones web browser application and will load the webpage of the car model.
 
 ![b3](https://user-images.githubusercontent.com/33674827/104111891-732bc400-52ad-11eb-94b5-24b64c2e5a69.PNG)
 
